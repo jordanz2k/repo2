@@ -1,2 +1,5 @@
-second mission statement commit on master.  
-This will generate a conflict.
+Final Draft, Microsoft's Mission Statement:
+We are a company whose mission is to empower every person
+and every organization on the planet to achieve more.
+We strive to create local opportunity, growth, and impact
+in every country around the world.
