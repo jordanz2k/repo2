@@ -1,1 +1,3 @@
-Empty mission statement on master
+Attempt #2
+First try on testing branch
+I will use Microsoft's mission statement
