@@ -1,1 +1,2 @@
-Empty mission statement on master
+second mission statement commit on master.  
+This will generate a conflict.
